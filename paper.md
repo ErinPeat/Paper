@@ -1,8 +1,8 @@
 # Title 
-Ageing of biomass during aerosols in Manchester
+Ageing of biomass during aerosols in Manchester and London
 
 #Author 
-Erin Peat
+John Smith
 
 #Intro
 Burning stuff is bad ! Don't do it please

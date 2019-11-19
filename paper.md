@@ -1,5 +1,5 @@
 # Title 
-Ageing of biomass during aerosols in Manchester
+The ages of biomass during aerosols in Manchester and London 
 
 #Author 
 Erin Peat
